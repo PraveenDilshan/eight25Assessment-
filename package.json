@@ -1,0 +1,23 @@
+{
+  "name": "eight25assessment-",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PraveenDilshan/eight25Assessment-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PraveenDilshan/eight25Assessment-/issues"
+  },
+  "homepage": "https://github.com/PraveenDilshan/eight25Assessment-#readme",
+  "devDependencies": {
+    "cypress": "^15.3.0"
+  }
+}
